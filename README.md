@@ -4,7 +4,7 @@ In this problem, we need to identify which customers will make a specific transa
 
 ## Data
 - Training data is an anonymous data set containing **200,000** observations with **200** numeric feature variables and a string `ID_code` column and the binary `target` column which are the outcome of the transaction.   
-- The same columns are present for test data except for the target.
+- The same columns are present for test data except for the `target` as this column we have to predict using the train data set.
 
 ## Exploratory Data Analysis
 Exploratory data analysis mainly includes **missing value**, **outlier**, **correlation**, **descriptive** and visualizations to gain insights from data.
