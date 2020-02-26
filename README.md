@@ -3,7 +3,7 @@
 
 In this problem, we need to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. The data is anonymous with no customer details been revealed to the participants of the competition.
 
-## Dataset
-- Training data is an anonymous data set containing 200 numeric feature variables, the binary target column, and a string `ID_code` column and 200,000 observations. 
-- Test data includes 200 anonymous numeric variables and a string `ID_code` column and 200,000 observations.
+## Data
+- Training data is an anonymous data set containing 200,000 observations with 200 numeric feature variables (`var_0-var_199`) and a string `ID_code` column and the binary target column, which are the outcome of the transaction.   
+- The same columns are present for test data except for the target.
 
