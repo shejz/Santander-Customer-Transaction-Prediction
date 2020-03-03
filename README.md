@@ -14,6 +14,7 @@ Exploratory data analysis mainly includes **missing value**, **outlier**, **corr
 
 #### Imbalanced Dataset
 - The dataset is highly imbalanced where only **10%** of the training datais tagged as **1** in the variable target which is an indicator flagging whether if a customer made a transaction. This is important feature to keep in mind as we may need to oversample the customers that made transaction to create a better model.  
+![Target Distribution](https://github.com/shejz/Santander-Customer-Transaction-Prediction/blob/master/graphs/target_distribution.jpg)
 
 #### Correlation Analysis
 - As from the heatmap, variables in train and test data are independent of each other.
