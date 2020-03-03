@@ -12,10 +12,10 @@ The purpose of this competition is to provide a classification model for Santand
 Exploratory data analysis mainly includes **missing value**, **outlier**, **correlation**, **descriptive** and visualizations to gain insights from data.
 
 
-### Imbalanced Dataset
+#### Imbalanced Dataset
 - The dataset is highly imbalanced where only **10%** of the training datais tagged as **1** in the variable target which is an indicator flagging whether if a customer made a transaction. This is important feature to keep in mind as we may need to oversample the customers that made transaction to create a better model.  
 
-### Correlation Analysis
+#### Correlation Analysis
 - As from the heatmap, variables in train and test data are independent of each other.
 ![Correlations](https://github.com/shejz/Santander-Customer-Transaction-Prediction/blob/master/graphs/correlations.jpg)
  
