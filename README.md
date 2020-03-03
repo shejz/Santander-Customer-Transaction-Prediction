@@ -29,3 +29,12 @@ A bar chart showing the imbalanced distribution in the training data can be seen
 2. Count Encoding
 3. Combination of extracted training set and real samples as features.
 
+## **Submission and LB Score**
+
+|Model|Public score|Private score|Final rank| 
+|------|-------|-------|-------------|
+| LGBM |0.98122|0.98206| 223th ( 1309/8802[Top 15%](https://www.kaggle.com/shielaj/competitions))|
+| Modified LGBM |0.98122|0.98206| |
+| CNN |0.98122|0.98206| |
+
+
