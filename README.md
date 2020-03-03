@@ -33,8 +33,11 @@ A bar chart showing the imbalanced distribution in the training data can be seen
 
 |Model|Public score|Private score|Final rank| 
 |------|-------|-------|-------------|
-| LGBM |0.98122|0.98206| 223th ( 1309/8802[Top 15%](https://www.kaggle.com/shielaj/competitions))|
-| Modified LGBM |0.98122|0.98206| |
-| CNN |0.98122|0.98206| |
+|LGBM |0.90117|0.89986| [Top 15%](https://www.kaggle.com/shielaj/competitions))|
+|LGBM+catboost|0.90215|0.90083| |
+|catboost| 0.90129|0.89999| |
+|Modified LGBM |0.92377|0.92124| |
+|CNN |0.92209|0.92159| |
+
 
 
