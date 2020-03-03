@@ -24,3 +24,8 @@ A bar chart showing the imbalanced distribution in the training data can be seen
 - As from the heatmap, variables in train and test data are independent of each other.
 ![Correlations](https://github.com/shejz/Santander-Customer-Transaction-Prediction/blob/master/graphs/correlations.jpg)
  
+## **Preprocessing**
+1. Removing fake samples from test set.
+2. Count Encoding
+3. Combination of extracted training set and real samples in the test set.
+
