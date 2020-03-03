@@ -25,7 +25,7 @@ A bar chart showing the imbalanced distribution in the training data can be seen
 ![Correlations](https://github.com/shejz/Santander-Customer-Transaction-Prediction/blob/master/graphs/correlations.jpg)
  
 ## **Preprocessing**
-1. Removing fake samples from test set.
+1. Removing fake/synthetic samples in the test set.
 2. Count Encoding
-3. Combination of extracted training set and real samples in the test set.
+3. Combination of extracted training set and real samples as features.
 
