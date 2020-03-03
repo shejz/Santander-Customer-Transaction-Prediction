@@ -5,7 +5,7 @@ The purpose of this competition is to provide a classification model for Santand
 
 ## Data
 - The data is anonymous with no customer details been revealed to the participants of the competition.
-- Training data is an anonymous data set containing **200,000** observations with **200** numeric feature variables and a string `ID_code` column and the binary `target` column which are the outcome of the transaction.   
+- Training data set containing **200,000** observations with **200** numeric feature variables and a string `ID_code` column and the binary `target` column which are the outcome of the transaction.   
 - The same columns are present for test data except for the `target` as this column we have to predict using the train data set.
 
 ## Exploratory Data Analysis
