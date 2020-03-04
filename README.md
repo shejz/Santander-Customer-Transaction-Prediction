@@ -29,6 +29,12 @@ A bar chart showing the imbalanced distribution in the training data can be seen
 2. Count Encoding
 3. Combination of extracted training set and real samples as features.
 
+## **Model**
+**CNN**
+- Train it with 400 columns (Original 200 vars + 200 columns of counts)
+- Data augmentation (each epoch is feed with different data) 
+- Using cyclic learning rate to train the CNN
+
 ## **Submission and LB Score**
 
 |Model|Public score|Private score|Final rank| 
